@@ -1,0 +1,8 @@
+{
+  "name": "hackathon-discord-bot",
+  "author": "giansar <pahorton@asu.edu>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
